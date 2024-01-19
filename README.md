@@ -1,5 +1,17 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+<div style="font-family: system-ui;display: flex;
+					align-items: center;
+					justify-content: center;
+          tex-align: center;
+					margin: 0;
+					width: 100%;
+					height: 150px;
+          background-color: #20232A;
+					border-radius: 10px;
+					color: white;
+          font-size: 18px;
+          line-height: 1.6;">
+        <div class="slogan-eng">"Study every day if you don't want to be left behind."</div>
+        <div class="slogan-vi">"Học mỗi ngày nếu không muốn bỏ lại ở phía sau."</div>
 </div>
 
 ###
