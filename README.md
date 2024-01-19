@@ -1,16 +1,4 @@
-<div style="font-family: system-ui,-apple-system, Roboto, Helvetica, Arial;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            text-align: center;
-            margin: 0;
-            width: 100%;
-            height: 150px;
-            background-color: #20232A;
-            border-radius: 10px;
-            color: white;
-            font-size: 18px;
-            line-height: 1.6;">
+<div align="center">
     <div class="slogan-eng">"Study every day if you don't want to be left behind."</div>
     <div class="slogan-vi">"Học mỗi ngày nếu không muốn bỏ lại ở phía sau."</div>
 </div>
