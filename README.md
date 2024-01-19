@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pnhatthanh.pnhatthanh&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pnhatthanh.pnhatthanh"  />
 </div>
 
 ###
