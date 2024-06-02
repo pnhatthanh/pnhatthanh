@@ -1,6 +1,5 @@
 <div align="center">
     <div align="center" class="slogan-eng">"Study every day if you don't want to be left behind."</div>
-    <div align="center" class="slogan-vi">"Học mỗi ngày nếu không muốn bỏ lại ở phía sau."</div>
 </div>
 
 ###
