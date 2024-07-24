@@ -11,3 +11,7 @@
 ![REACTJS](https://img.shields.io/badge/Reactjs-%2361DAFB)
 ![TAILDWINDCSS](https://img.shields.io/badge/Tailwindcss-%2306B6D4)
 ## Tools
+![SQLSERVER](https://img.shields.io/badge/SQL%20Server-%23D71F00)
+![MYSQL](https://img.shields.io/badge/MySQL-%234479A1)
+![GIT](https://img.shields.io/badge/Git-%23F05032)
+![CLOUDINARY](https://img.shields.io/badge/Cloudinary-%233448C5)
