@@ -1,4 +1,4 @@
-## Hello there, welcome to my Git profile 👋
+## Hello there, welcome to my Git profile 👋                                                    ![Visitor Count](https://profile-counter.glitch.me/pnhatthanh/count.svg)
 - 👩‍💻 I'm NhatThanh - A boy who is trying to be better every day
 - ✍ I'm currently studying at Danang University of Sience and Technology.
 - 📫 Reach me at [Facebook](https://www.facebook.com/thanh.phamnhat.779), [Instagram](https://www.instagram.com/nhatthanh.04/)
