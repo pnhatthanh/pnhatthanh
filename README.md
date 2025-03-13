@@ -1,17 +1,28 @@
-## Hello there, welcome to my Git profile 👋                                                   
-- 👩‍💻 I'm NhatThanh - A boy who is trying to be better every day
-- ✍ I'm currently studying at Danang University of Sience and Technology.
-- 📫 Reach me at [Facebook](https://www.facebook.com/thanh.phamnhat.779), [Instagram](https://www.instagram.com/nhatthanh.04/)
-## My tech stack
-![C#](http://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
-![ASP.NET CORE](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=asp.net&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-%23FC4C02)
-![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-%236DB33F)
-![JAVASCRIPT](https://img.shields.io/badge/Javascript-%23F7DF1E)
-![REACTJS](https://img.shields.io/badge/Reactjs-%2361DAFB)
-![TAILDWINDCSS](https://img.shields.io/badge/Tailwindcss-%2306B6D4)
-## Tools
-![SQLSERVER](https://img.shields.io/badge/SQL%20Server-%23D71F00)
-![MYSQL](https://img.shields.io/badge/MySQL-%234479A1)
-![GIT](https://img.shields.io/badge/Git-%23F05032)
-![CLOUDINARY](https://img.shields.io/badge/Cloudinary-%233448C5)
+<p align="left">Hello World!!</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/pnhatthanh/pnhatthanh/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pnhatthanh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pnhatthanh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
